@@ -1,0 +1,17 @@
+{
+	"name" : "H3 Themes",
+	"description" : "Game screens from all HoMM3 parts: RoE, AB, SoD, HotA",
+	"author" : "New World Computing, HotA Team. Port: avatar",
+	"version" : "1.1",
+	"modType" : "Themes",	
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"version":"1.0.0",
+	{
+		"min" : "1.0.0"
+	},
+	"conflicts" :
+	[
+		"new-menu",
+		"randomSkins"
+	]
+}

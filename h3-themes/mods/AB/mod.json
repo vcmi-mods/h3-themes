@@ -1,0 +1,14 @@
+{
+	"name" : "AB skin",
+	"description" : "Heroes 3 Theme: Armageddon's Blade",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+	"conflicts" :
+	[
+		"H3themes.RoE",
+		"H3themes.HotA",
+		"H3themes.SoD"
+	]
+}

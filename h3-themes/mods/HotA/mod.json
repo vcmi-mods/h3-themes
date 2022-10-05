@@ -1,0 +1,14 @@
+{
+	"name" : "HotA skin",
+	"description" : "Heroes 3 Theme: Horn of the Abyss",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+	"conflicts" :
+	[
+		"H3themes.RoE",
+		"H3themes.AB",
+		"H3themes.SoD"
+	]
+}

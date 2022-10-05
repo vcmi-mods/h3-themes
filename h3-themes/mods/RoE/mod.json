@@ -1,0 +1,14 @@
+{
+	"name" : "RoE skin",
+	"description" : "Heroes 3 Theme: Restoration of Erathia",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+	"conflicts" :
+	[
+		"H3themes.AB",
+		"H3themes.HotA",
+		"H3themes.SoD"
+	]
+}

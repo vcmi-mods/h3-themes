@@ -1,0 +1,14 @@
+{
+	"name" : "SoD skin",
+	"description" : "Heroes 3 Theme: Shadow Of Death",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+	"conflicts" :
+	[
+		"H3themes.RoE",
+		"H3themes.HotA",
+		"H3themes.AB"
+	]
+}
