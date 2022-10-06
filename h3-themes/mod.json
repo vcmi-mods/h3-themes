@@ -6,6 +6,7 @@
 	"modType" : "Themes",	
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"version":"1.0.0",
+	"compatibility":
 	{
 		"min" : "1.0.0"
 	},
