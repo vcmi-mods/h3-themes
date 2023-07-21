@@ -5,10 +5,13 @@
 	"version" : "",
 	"modType" : "Interface",	
 	"contact" : "",
+	"keepDisabled" : true,
 	"conflicts" :
 	[
 		"H3themes.AB",
 		"H3themes.HotA",
-		"H3themes.SoD"
+		"H3themes.SoD",
+		"wake-of-gods.wogscreen",
+		"tides-of-war.tow-main-menu"
 	]
 }
