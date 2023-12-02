@@ -7,10 +7,11 @@
 	"contact" : "",
 	"conflicts" :
 	[
-		"H3themes.RoE",
-		"H3themes.HotA",
-		"H3themes.AB",
+		"h3-themes.roe",
+		"h3-themes.hota",
+		"h3-themes.ab",
 		"wake-of-gods.wogscreen",
-		"tides-of-war.tow-main-menu"
+		"tides-of-war.tow-main-menu",
+		"hi-rez-menu"
 	]
 }

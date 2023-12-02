@@ -8,10 +8,11 @@
 	"keepDisabled" : true,
 	"conflicts" :
 	[
-		"H3themes.AB",
-		"H3themes.HotA",
-		"H3themes.SoD",
+		"h3-themes.ab",
+		"h3-themes.hota",
+		"h3-themes.sod",
 		"wake-of-gods.wogscreen",
-		"tides-of-war.tow-main-menu"
+		"tides-of-war.tow-main-menu",
+		"hi-rez-menu"
 	]
 }

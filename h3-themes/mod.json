@@ -2,15 +2,24 @@
 	"name" : "H3 Themes",
 	"description" : "Game screens from all HoMM3 parts: RoE, AB, SoD, HotA",
 	"author" : "New World Computing, HotA Team. Port: avatar",
-	"version" : "1.1",
+	"version" : "1.2",
 	"modType" : "Interface",	
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"compatibility":
 	{
 		"min" : "1.0.0"
 	},
+	"changelog" :
+    {
+		"1.2"   : [ "Fixes dependencies with other themes mods" ],
+		"1.1"   : [ "HotA theme added" ],
+		"1.1"   : [ "Initial release" ]
+    },
 	"conflicts" :
 	[
+		"wake-of-gods.wogscreen",
+		"tides-of-war.tow-main-menu",
+		"hi-rez-menu",		
 		"new-menu",
 		"randomSkins"
 	]
