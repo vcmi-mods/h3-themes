@@ -13,7 +13,7 @@
     {
 		"1.2"   : [ "Fixes dependencies with other themes mods" ],
 		"1.1"   : [ "HotA theme added" ],
-		"1.1"   : [ "Initial release" ]
+		"1.0"   : [ "Initial release" ]
     },
 	"conflicts" :
 	[
