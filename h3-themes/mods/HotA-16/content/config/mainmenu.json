@@ -1,0 +1,64 @@
+{
+	//images used in game selection screen
+	"game-select" : ["GamSelB0", "GamSelB1", "gamselb2", "gamselb3", "gamselb4", "gamselb5", "gamselb6", "gamselb7", "gamselb8", "gamselb9", "gamselb10"],
+
+	"loading" : ["loadbar"],
+
+	//Main menu window, consists of several sub-menus aka items
+	"window":
+	{
+		"background" : "gamselbk",
+		//"scalable" : true, //background will be scaled to screen size
+		//"video" :    {"x": 347, "y": 143, "name":"CREDITS.smk" },//Floating WoG logo. Disabled due to different position in various versions of H3.
+		//"images" : [],//Optioal, contains any additional images in the same format as video
+		"items" : 
+		[
+			{
+				"name" : "main",
+				"buttons":
+				[
+					{"x": -252, "y": 27,  "name":"main-new", "hotkey" : 110, "help": 3, "command": "to new"},
+					{"x": -252, "y": 138, "name":"main-load", "hotkey" : 108, "help": 4, "command": "to load"},
+					{"x": -252, "y": 250, "name":"main-scores", "hotkey" : 104, "help": 5, "command": "highscores"},
+					{"x": -252, "y": 355, "name":"main-credits", "hotkey" : 99,  "help": 6, "command": "to credits"},
+					{"x": -252, "y": 460, "name":"quit", "hotkey" : 27,  "help": 7, "command": "exit"}
+				]
+			},
+			{
+				"name" : "new",
+				"buttons":
+				[
+					{"x": -252, "y": 22,  "name":"game-single", "hotkey" : 115, "help": 10, "command": "start single"},
+					{"x": -252, "y": 136, "name":"game-multi", "hotkey" : 109, "help": 12, "command": "start multi"},
+					{"x": -252, "y": 243, "name":"game-camp", "hotkey" : 99,  "help": 11, "command": "to campaign"},
+					{"x": -252, "y": 358, "name":"game-tutor", "hotkey" : 116, "help": 13, "command": "start tutorial"},
+					{"x": -252, "y": 460, "name":"back",  "hotkey" : 27,  "help": 14, "command": "to main"}
+				],
+				"images": [ {"x": 194, "y": 251, "name":"NEWGAME"} ]
+			},
+			{
+				"name" : "load",
+				"buttons":
+				[
+					{"x": -252, "y": 22,  "name":"game-single", "hotkey" : 115, "help": 10, "command": "load single"},
+					{"x": -252, "y": 136, "name":"game-multi", "hotkey" : 109, "help": 12, "command": "load multi"},
+					{"x": -252, "y": 243, "name":"game-camp", "hotkey" : 99,  "help": 11, "command": "load campaign"},
+					{"x": -252, "y": 358, "name":"game-tutor", "hotkey" : 116, "help": 13, "command": "load tutorial"},
+					{"x": -252, "y": 460, "name":"back",  "hotkey" : 27,  "help": 14, "command": "to main"}
+				],
+				"images": [ {"x": 194, "y": 251, "name":"LOADGAME"} ]
+			},
+			{
+				"name" : "campaign",
+				"buttons":
+				[
+					{"x": -262, "y": 19,  "name":"camp-roe", "hotkey" : 114, "command": "campaigns roe"},
+					{"x": -273, "y": 133, "name":"camp-ab", "hotkey" : 97,  "command": "campaigns ab"},
+					{"x": -230, "y": 254, "name":"camp-sod", "hotkey" : 119, "command": "campaigns sod"},
+					{"x": -222, "y": 364, "name":"camp-custom", "hotkey" : 99,  "command": "start campaign"},
+					{"x": -252, "y": 460, "name":"back", "hotkey" : 27,  "command": "to new"}
+				]
+			}
+		]
+	}
+}

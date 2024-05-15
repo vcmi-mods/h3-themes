@@ -1,0 +1,20 @@
+{
+	"name" : "WoG skin",
+	"description" : "Heroes 3 Theme: In the Wake of Gods",
+	"author" : "",
+	"version" : "",
+	"modType" : "Interface",
+	"contact" : "",
+	"keepDisabled" : true,
+	"conflicts" :
+	[
+		"h3-themes.roe",
+		"h3-themes.ab",
+		"h3-themes.sod",
+		"h3-themes.hota-16",
+		"h3-themes.hota-17",
+		"wake-of-gods.wogscreen",
+		"tides-of-war.tow-main-menu",
+		"hi-rez-menu"
+	]
+}

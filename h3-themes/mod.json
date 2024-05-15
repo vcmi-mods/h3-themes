@@ -1,8 +1,8 @@
 {
 	"name" : "H3 Themes",
 	"description" : "Game screens from all HoMM3 parts: RoE, AB, SoD, HotA",
-	"author" : "New World Computing, HotA Team. Port: avatar",
-	"version" : "1.2",
+	"author" : "New World Computing, HotA Team, avatar, Aphra",
+	"version" : "1.4",
 	"modType" : "Interface",	
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"compatibility":
@@ -11,6 +11,8 @@
 	},
 	"changelog" :
     {
+		"1.4"   : [ "WoG theme added" ],
+		"1.3"   : [ "Icons updated to latest HotA icons; HotA 1.6 and 1.7 themes separated" ],
 		"1.2"   : [ "Fixes dependencies with other themes mods" ],
 		"1.1"   : [ "HotA theme added" ],
 		"1.0"   : [ "Initial release" ]

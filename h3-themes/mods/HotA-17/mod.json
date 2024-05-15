@@ -1,0 +1,20 @@
+{
+	"name" : "HotA 1.7 skin",
+	"description" : "Heroes 3 Theme: Horn of the Abyss 1.7",
+	"author" : "",
+	"version" : "",
+	"modType" : "Interface",	
+	"contact" : "",
+	"keepDisabled" : true,
+	"conflicts" :
+	[
+		"h3-themes.roe",
+		"h3-themes.ab",
+		"h3-themes.sod",
+		"h3-themes.hota-16",
+		"h3-themes.wog",
+		"wake-of-gods.wogscreen",
+		"tides-of-war.tow-main-menu",
+		"hi-rez-menu"
+	]
+}
