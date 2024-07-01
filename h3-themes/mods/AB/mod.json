@@ -1,5 +1,5 @@
 {
-	"name" : "AB skin",
+	"name" : "AB Theme",
 	"description" : "Heroes 3 Theme: Armageddon's Blade",
 	"author" : "",
 	"version" : "",
@@ -10,10 +10,14 @@
 	[
 		"h3-themes.roe",
 		"h3-themes.sod",
+		"h3-themes.complete",
 		"h3-themes.hota-16",
 		"h3-themes.hota-17",
 		"h3-themes.wog",
+		"h3-themes.tow",
+		"h3-themes.vcmi",
 		"wake-of-gods.wogscreen",
+		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
 	]
