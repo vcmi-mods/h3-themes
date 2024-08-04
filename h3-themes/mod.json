@@ -1,8 +1,8 @@
 {
 	"name" : "H3 Themes",
-	"description" : "Game screens from all HoMM3 parts: RoE, AB, SoD, HotA",
-	"author" : "New World Computing, HotA Team, avatar, Aphra",
-	"version" : "1.4",
+	"description" : "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW",
+	"author" : "New World Computing, HotA Team, Mod Design Team, avatar, Aphra",
+	"version" : "1.8.0",
 	"modType" : "Interface",	
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"compatibility":
@@ -11,15 +11,22 @@
 	},
 	"changelog" :
     {
-		"1.4"   : [ "WoG theme added" ],
-		"1.3"   : [ "Icons updated to latest HotA icons; HotA 1.6 and 1.7 themes separated" ],
-		"1.2"   : [ "Fixes dependencies with other themes mods" ],
-		"1.1"   : [ "HotA theme added" ],
-		"1.0"   : [ "Initial release" ]
+		"1.0.0"   : [ "Initial release" ],
+		"1.1.0"   : [ "HotA theme added" ],
+		"1.2.0"   : [ "Fixes dependencies with other themes mods" ],
+		"1.3.0"   : [ "Icons updated to latest HotA icons; HotA 1.6 and 1.7 themes separated" ],
+		"1.4.0"   : [ "WoG theme added" ],
+		"1.5.0"   : [ "ToW theme added" ],
+		"1.6.0"   : [ "Complete theme added" ],
+		"1.7.0"   : [ "VCMI theme added; minor graphical fixes" ],
+		"1.7.1"   : [ "Minor code changes" ],
+		"1.7.2"   : [ "WoG menu conflict updated with new folder name" ],
+		"1.8.0"   : [ "HD theme added" ]
     },
 	"conflicts" :
 	[
 		"wake-of-gods.wogscreen",
+		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu",		
 		"new-menu",

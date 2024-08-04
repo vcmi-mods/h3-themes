@@ -1,6 +1,6 @@
 {
-	"name" : "SoD Theme",
-	"description" : "Heroes 3 Theme: Shadow Of Death",
+	"name" : "HD Theme",
+	"description" : "Heroes 3 Theme: HD",
 	"author" : "",
 	"version" : "",
 	"modType" : "Interface",	
@@ -10,8 +10,8 @@
 	[
 		"h3-themes.roe",
 		"h3-themes.ab",
+		"h3-themes.sod",
 		"h3-themes.complete",
-		"h3-themes.hd",
 		"h3-themes.hota-16",
 		"h3-themes.hota-17",
 		"h3-themes.wog",
