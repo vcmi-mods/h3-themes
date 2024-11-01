@@ -1,8 +1,8 @@
 {
 	"name" : "H3 Themes",
-	"description" : "Main Menu themes from: RoE, AB, SoD, Chronicles, HotA, WoG, ToW",
+	"description" : "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW",
 	"author" : "New World Computing, HotA Team, Mod Design Team, avatar, Aphra",
-	"version" : "1.9.0",
+	"version" : "2.0.0",
 	"modType" : "Interface",	
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"compatibility":
@@ -22,7 +22,8 @@
 		"1.7.1"   : [ "Minor code changes" ],
 		"1.7.2"   : [ "WoG menu conflict updated with new folder name" ],
 		"1.8.0"   : [ "HD theme added" ],
-		"1.9.0"   : [ "Chronicles themes added" ]
+		"1.9.0"   : [ "Heroes Chronicles theme added" ],
+		"2.0.0"   : [ "Legends theme added" ]
     },
 	"conflicts" :
 	[
