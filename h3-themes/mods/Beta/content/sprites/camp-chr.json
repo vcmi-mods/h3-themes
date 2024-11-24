@@ -1,0 +1,18 @@
+{
+	"basepath" : "images/",
+	"images" :
+	[
+		{
+			"frame": 0,
+			"file" : "hc-normal"
+		},
+		{
+			"frame": 1,
+			"file" : "hc-down"
+		},
+		{
+			"frame": 2,
+			"file" : "hc-hover"
+		}
+	]
+}
