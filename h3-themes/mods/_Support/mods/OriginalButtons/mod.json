@@ -1,0 +1,22 @@
+{	
+	"name" : "Main menu icons",
+	"description" : "Main menu icons.",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "",
+	"modType" : "Graphical",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"conflicts" :
+	[
+		"h3-themes.beta",
+		"h3-themes.legends"
+	]
+}
