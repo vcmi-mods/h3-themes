@@ -8,6 +8,7 @@
 	"keepDisabled" : true,
 	"conflicts" :
 	[
+		"h3-themes._support.originalbuttons",
 		"h3-themes.roe",
 		"h3-themes.ab",
 		"h3-themes.sod",

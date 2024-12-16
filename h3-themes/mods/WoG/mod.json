@@ -6,6 +6,10 @@
 	"modType" : "Interface",
 	"contact" : "",
 	"keepDisabled" : true,
+	"depends" :
+	[
+		"h3-themes._support.originalbuttons"
+	],
 	"conflicts" :
 	[
 		"h3-themes.roe",

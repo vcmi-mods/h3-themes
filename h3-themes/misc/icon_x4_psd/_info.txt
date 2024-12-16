@@ -1,0 +1,4 @@
+How to translate:
+- Normal: Translate all psd "normal" files and export with the same name as png
+- Hover: Open each png file and copy layer effect from example (ab-hover.psd) and save as png (with -hover suffix instead of -normal)
+- Down: Open each normal png file and move content by X: -16 / Y: -24 (example: see ab-down.psd) and save as png (with -down suffix instead of -normal)
