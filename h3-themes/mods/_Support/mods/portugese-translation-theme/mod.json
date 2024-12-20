@@ -1,0 +1,22 @@
+{	
+	"name" : "Main menu icons",
+	"description" : "Portugese translation of main menu icons.",
+	"version" : "1.1.0",
+	"author" : "",
+	"contact" : "",
+	"modType" : "Compatibility",
+	"language" : "portugese",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" :
+	[
+		"h3-themes._support.originalbuttons"
+	]
+}
