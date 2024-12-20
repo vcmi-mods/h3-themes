@@ -1,11 +1,11 @@
 {	
 	"name" : "Main menu icons",
-	"description" : "German translation of main menu icons.",
+	"description" : "Czech translation of main menu icons.",
 	"version" : "1.1.0",
 	"author" : "",
 	"contact" : "",
 	"modType" : "Compatibility",
-	"language" : "german",
+	"language" : "czech",
 	"compatibility" :
 	{
 		"min" : "1.6.0"
@@ -13,15 +13,10 @@
 	"keepDisabled" : true,
 	"changelog" : 
 	{ 
-		"1.0.0" : [ "Initial release" ],
-		"1.1.0" : [ "HD icons" ]
+		"1.0.0" : [ "Initial release" ]
 	},
 	"depends" :
 	[
 		"h3-themes._support.originalbuttons"
-	],
-	"german" : {
-		"name" : "Hauptmenü-Icons",
-		"description" : "Deutsche Übersetzung der Hauptmenü-Icons."	
-	}
+	]
 }
