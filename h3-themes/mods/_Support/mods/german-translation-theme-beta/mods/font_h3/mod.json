@@ -1,0 +1,24 @@
+{	
+	"name" : "H3 font",
+	"description" : "H3 font",
+	"version" : "1.0.0",
+	"author" : "3DO",
+	"contact" : "",
+	"modType" : "Compatibility",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.5.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [
+		"h3-themes"
+	],
+	"softDepends" : [
+		"h3-themes.beta"
+	]
+}

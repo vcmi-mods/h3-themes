@@ -1,0 +1,42 @@
+{	
+	"name" : "H3 font",
+	"description" : "H3 font",
+	"version" : "1.0.0",
+	"author" : "3DO",
+	"contact" : "",
+	"modType" : "Compatibility",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.5.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [
+		"h3-themes"
+	],
+	"softDepends" : [
+		"h3-themes.roe",
+		"h3-themes.ab",
+		"h3-themes.sod",
+		"h3-themes.complete",
+		"h3-themes.hd",
+		"h3-themes.hota-16",
+		"h3-themes.hota-17",
+		"h3-themes.hc-1",
+		"h3-themes.hc-2",
+		"h3-themes.hc-3",
+		"h3-themes.hc-4",
+		"h3-themes.hc-5",
+		"h3-themes.hc-6",
+		"h3-themes.hc-7",
+		"h3-themes.hc-8",
+		"h3-themes.wog",
+		"h3-themes.tow",
+		"h3-themes.vcmi",
+		"h3-themes.legends"
+	]
+}

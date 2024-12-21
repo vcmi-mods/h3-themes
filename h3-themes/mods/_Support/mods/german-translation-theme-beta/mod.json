@@ -1,0 +1,24 @@
+{	
+	"name" : "Main menu icons (german) (for beta)",
+	"description" : "German translation of main menu icons (for beta).",
+	"version" : "1.0.0",
+	"author" : "Aph-ra",
+	"contact" : "",
+	"modType" : "Translation",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [
+		"h3-themes.beta"
+	],
+	"german" : {
+		"name" : "Hauptmenü-Icons (deutsch) (für beta)",
+		"description" : "Deutsche Übersetzung der Hauptmenü-Icons (für beta)."	
+	}
+}

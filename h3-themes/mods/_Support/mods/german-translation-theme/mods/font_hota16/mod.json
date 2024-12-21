@@ -1,0 +1,21 @@
+{	
+	"name" : "HotA Font 1.6",
+	"description" : "HotA Font 1.6 (Windows-1252)",
+	"version" : "1.0.0",
+	"author" : "HotA team / victorwss",
+	"contact" : "https://github.com/victorwss/homm3-hota-translate",
+	"modType" : "Compatibility",
+	"language" : "german",
+	"compatibility" :
+	{
+		"min" : "1.5.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [
+		"h3-themes.hota-16"
+	]
+}
