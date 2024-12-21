@@ -1,16 +1,15 @@
 {	
-	"name" : "Main menu icons (for beta)",
+	"name" : "Main menu icons (german) (for beta)",
 	"description" : "German translation of main menu icons (for beta).",
 	"version" : "1.0.0",
 	"author" : "Aph-ra",
 	"contact" : "",
-	"modType" : "Compatibility",
+	"modType" : "Translation",
 	"language" : "german",
 	"compatibility" :
 	{
 		"min" : "1.6.0"
 	},
-	"keepDisabled" : true,
 	"changelog" : 
 	{ 
 		"1.0.0" : [ "Initial release" ]
