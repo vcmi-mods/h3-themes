@@ -1,3 +1,10 @@
+Fonts:
+    General: Times New Roman (Bold)
+    Chinese: Source Han Sans CN (Bold)
+    Korean: NanumMyeongjo (Bold)
+
+--------------------------------------
+
 GERMAN
     NEW GAME = NEUES SPIEL
     LOAD GAME = SPIEL LADEN
