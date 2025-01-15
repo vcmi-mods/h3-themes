@@ -2,7 +2,14 @@
 	//images used in game selection screen
 	"game-select" : ["GamSelB0.png"],
 
-	"loading" : ["loadbar.png"],
+	"loading" :
+	{
+		"background" : ["loadbar"],
+		"x": 395, "y": 548, "size": 18, "amount": 20,
+		"name": "loadprog"
+	},
+	
+	"multiplayer" : ["mumap"],
 
 	//Main menu window, consists of several sub-menus aka items
 	"window":

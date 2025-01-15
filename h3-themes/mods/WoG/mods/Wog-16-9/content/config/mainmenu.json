@@ -2,14 +2,20 @@
 	//images used in game selection screen
 	"game-select" : ["ZPIC1000", "ZPIC1001"],
 
-	"loading" : ["ZPIC106"],
-
+	"loading" :
+	{
+		"background" : ["ZPIC106"],
+		"x": 655, "y": 548, "size": 18, "amount": 20, "name": "loadprog"
+	},
+	
+	"multiplayer" : ["mumap"],
+	
 	//Main menu window, consists of several sub-menus aka items
 	"window":
 	{
 		"background" : "ZPIC1005",
 		//"scalable" : true, //background will be scaled to screen size
-		"video" :    {"x": 142, "y": 104, "name":"ACREDIT.SMK" },
+		//"video" :    {"x": 142, "y": 104, "name":"ACREDIT.SMK" },
 		//"images" : [],//Optioal, contains any additional images in the same format as video
 		"items" : 
 		[
