@@ -1,5 +1,5 @@
 {
-	"name" : "H3 Themes",
+	"name" : "Main menu themes pack",
 	"description" : "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW",
 	"author" : "New World Computing, HotA Team, Mod Design Team, avatar, Aphra",
 	"version" : "2.2.0",
@@ -35,5 +35,9 @@
 		"hi-rez-menu",		
 		"new-menu",
 		"randomSkins"
-	]
+	],
+	"czech" : {
+		"name" : "Vzhledy hlavního menu",
+		"description" : "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW"
+	}
 }
