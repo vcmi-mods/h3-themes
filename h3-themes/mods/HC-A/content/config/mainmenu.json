@@ -6,7 +6,7 @@
 	{
 		"background" : ["loadbar0", "loadbar1", "loadbar2", "loadbar3", "loadbar4", "loadbar5", "loadbar6", "loadbar7"],
 		"x": 395, "y": 548, "size": 18, "amount": 20,
-		"name": ["loadprog0", "loadprog1", "loadprog2", "loadprog3", "loadprog4", "loadprog5", "loadprog6", "loadprog7"]
+		"name": ["loadprog0", "loadprog1", "loadprog2", "loadprog3", "loadprog4", "loadprog5"]
 	},
 	
 	"multiplayer" : ["mumap0", "mumap1", "mumap2", "mumap3", "mumap4", "mumap5", "mumap6", "mumap7"],
