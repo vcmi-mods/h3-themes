@@ -36,5 +36,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw WoG",
+		"description" : "Motyw z Heroes 3: In the Wake of Gods"
+	}
 }

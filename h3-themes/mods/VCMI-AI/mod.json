@@ -47,5 +47,9 @@
 	"czech" : {
 		"name" : "VCMI AI Theme",
 		"description" : "Načítací obrazovky vytvořené pomocí umělé inteligence (Dall-E 3), upravené Andruidem. Pro hlavní menu jsou v podmodifikacích dostupné také vyšší rozlišení."
+	},
+	"polish" : {
+		"name" : "Motyw VCMI AI",
+		"description" : "Ekrany ładowania i wyboru scenariuszy wygenerowane przez Dall-E 3 i edytowane przez Andruidsa. Dodatkowe wyższe rozdzielczości dla tła menu głównego są dostępne w submodach."
 	}
 }

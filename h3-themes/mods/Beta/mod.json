@@ -34,5 +34,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw Beta",
+		"description" : "Motyw z wersji beta Heroes 3"
+	}
 }

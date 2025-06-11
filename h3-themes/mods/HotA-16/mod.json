@@ -36,5 +36,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw HotA 1.6",
+		"description" : "Motyw z Heroes 3: Horn of the Abyss 1.6"
+	}
 }

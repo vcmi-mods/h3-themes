@@ -33,5 +33,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw Legends",
+		"description" : "Motyw z Heroes 3: Legends"
+	}
 }

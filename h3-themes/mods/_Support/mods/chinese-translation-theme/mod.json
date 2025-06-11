@@ -18,5 +18,9 @@
 	"depends" :
 	[
 		"h3-themes._support.originalbuttons"
-	]
+	],
+	"polish" : {
+		"name" : "Ikony Menu głównego (chinski)",
+		"description" : "Chińskie tłumaczenie ikon menu głównego."
+	}
 }

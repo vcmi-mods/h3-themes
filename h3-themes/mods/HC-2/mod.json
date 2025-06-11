@@ -36,5 +36,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw Kroniki Heroes 02",
+		"description" : "Motyw z Kroniki Heroes: Podbój Podziemi"
+	}
 }

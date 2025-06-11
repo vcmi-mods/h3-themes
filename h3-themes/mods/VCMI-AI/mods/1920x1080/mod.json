@@ -45,5 +45,9 @@
 	"czech" : {
 		"name" : "Rozlišení hlavního menu - 1920x1080",
 		"description" : "Dodatečné vyšší rozlišení."
+	},
+	"polish" : {
+		"name" : "Rozdzielczość menu głównego - 1920x1080",
+		"description" : "Dodatkowa wyższa rozdzielczość."
 	}
 }
