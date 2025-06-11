@@ -39,5 +39,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw Heroes Chronicles Ultimate",
+		"description" : "Motyw menu głównego utworzony ze wszystkich wersji Heroes Chronicles. Wszystkie obrazy zostały poprawione przy użyciu narzędzi AI"
+	}
 }

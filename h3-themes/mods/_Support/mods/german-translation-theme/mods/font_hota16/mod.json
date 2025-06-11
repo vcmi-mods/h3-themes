@@ -17,5 +17,9 @@
 	},
 	"depends" : [
 		"h3-themes.hota-16"
-	]
+	],
+	"polish" : {
+		"name" : "Niemiecka czcionka Heroes III HotA 1.6",
+		"description" : "Niemiecka czcionka z niemieckiego tłumaczenia Heroes III: HotA 1.6." 
+	}
 }

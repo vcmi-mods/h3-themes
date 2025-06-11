@@ -36,5 +36,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw Kronik Heroes 01",
+		"description" : "Motyw z Kronik Heroes: Wojownicy Pustkowi"
+	}
 }

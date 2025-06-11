@@ -22,5 +22,9 @@
 	"german" : {
 		"name" : "Hauptmenü-Icons (deutsch)",
 		"description" : "Deutsche Übersetzung der Hauptmenü-Icons."	
+	},
+	"polish" : {
+		"name" : "Ikony Menu głównego (niemiecki)",
+		"description" : "Niemieckie tłumaczenie ikon menu głównego."
 	}
 }

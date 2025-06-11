@@ -5,5 +5,9 @@
 	"version" : "",
 	"modType" : "Interface",
 	"contact" : "",
-	"keepDisabled" : true
+	"keepDisabled" : true,
+	"polish" : {
+		"name" : "Motyw WoG 16:9 HD",
+		"description" : "Motyw wysokiej jakości z Heroes 3: In the Wake of Gods dla ekranów panoramicznych"
+	}
 }

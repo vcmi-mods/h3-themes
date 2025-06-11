@@ -36,5 +36,9 @@
 		"wake-of-gods.mainmenu",
 		"tides-of-war.tow-main-menu",
 		"hi-rez-menu"
-	]
+	],
+	"polish" : {
+		"name" : "Motyw AB",
+		"description" : "Motyw z Heroes 3: Armageddon's Blade"
+	}
 }

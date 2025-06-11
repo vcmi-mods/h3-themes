@@ -5,5 +5,9 @@
 	"version" : "",
 	"modType" : "Interface",
 	"contact" : "",
-	"keepDisabled" : true
+	"keepDisabled" : true,
+	"polish" : {
+		"name" : "Motyw Complete 16:9 HD",
+		"description" : "Motyw wysokiej jakości z Heroes 3: Complete dla ekranów panoramicznych"
+	}
 }

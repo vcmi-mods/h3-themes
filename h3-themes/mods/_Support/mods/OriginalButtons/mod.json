@@ -18,5 +18,9 @@
 	[
 		"h3-themes.beta",
 		"h3-themes.legends"
-	]
+	],
+	"polish" : {
+		"name" : "Ikony Menu głównego (angielski)",
+		"description" : "Oryginalne ikony menu głównego."
+	}
 }

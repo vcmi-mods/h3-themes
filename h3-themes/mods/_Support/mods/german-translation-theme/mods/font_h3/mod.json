@@ -38,5 +38,9 @@
 		"h3-themes.tow",
 		"h3-themes.vcmi",
 		"h3-themes.legends"
-	]
+	],
+	"polish" : {
+		"name" : "Niemiecka czcionka Heroes III",
+		"description" : "Niemiecka czcionka z oficjalnego niemieckiego wydania Heroes III."
+	}
 }

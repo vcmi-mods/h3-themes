@@ -17,5 +17,9 @@
 	"depends" :
 	[
 		"h3-themes._support.originalbuttons"
-	]
+	],
+	"polish" : {
+		"name" : "Ikony Menu głównego (portugalski)",
+		"description" : "Portugalskie tłumaczenie ikon menu głównego."
+	}
 }

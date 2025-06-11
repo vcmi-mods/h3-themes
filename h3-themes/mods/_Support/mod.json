@@ -4,5 +4,9 @@
 	"author" : "",
 	"version" : "",
 	"modType" : "Interface",	
-	"contact" : ""
+	"contact" : "",
+	"polish" : {
+		"name" : "Dodatkowe moduły",
+		"description" : "Zestaw modułów zmieniających język ikon i przycisków menu głównego"
+	}
 }

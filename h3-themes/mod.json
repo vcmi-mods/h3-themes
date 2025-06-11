@@ -39,5 +39,9 @@
 	"czech" : {
 		"name" : "Vzhledy hlavního menu",
 		"description" : "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW"
+	},
+	"polish" : {
+		"name" : "Paczki motywów menu głównego",
+		"description" : "Paczki motywów menu głównego z: RoE, AB, SoD, HotA, WoG, ToW"
 	}
 }
