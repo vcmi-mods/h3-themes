@@ -25,7 +25,8 @@
 		"1.9.0"   : [ "Heroes Chronicles theme added" ],
 		"2.0.0"   : [ "Legends theme added" ],
 		"2.1.0"   : [ "HD icon support" ],
-		"2.2.0"   : [ "Translations added" ]
+		"2.2.0"   : [ "Translations added" ],
+		"2.2.1"   : [ "Chinese descroption added by Zerodys" ]
     },
 	"conflicts" :
 	[
@@ -39,5 +40,9 @@
 	"czech" : {
 		"name" : "Vzhledy hlavního menu",
 		"description" : "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW"
+	},
+	"chinese" : {
+		"name" : "主界面主题包",
+		"description" : "主界面主题替换：埃拉西亚的光复、末日之刃、死亡阴影、深渊号角、神之觉醒、战争之潮"
 	}
 }
