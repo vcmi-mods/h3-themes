@@ -2,8 +2,9 @@
 	"name" : "Complete 16:9 HD",
 	"description" : "Heroes 3 Theme: Complete in 16:9 HD",
 	"author" : "",
-	"version" : "",
+	"version" : "1.0.0",
 	"modType" : "Interface",
 	"contact" : "",
-	"keepDisabled" : true
+	"keepDisabled" : true,
+	"softDepends" : ["polish-translation"]
 }
