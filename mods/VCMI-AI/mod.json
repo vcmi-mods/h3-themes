@@ -5,20 +5,27 @@
 	"author" : "Dall-E 3, Andruids, avatar",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "Interface",
-	"changelog" :
-	{
-		"1.0"   : ["Initial release"],		
-		"1.1"   : ["Fixes"],
-		"1.1.1" : ["Yet again fixes"],
-		"1.1.2" : ["Removed unnecessary conflict"],
-		"1.1.3" : ["Czech translation by George King"]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		],
+		"1.1" : [
+			"Fixes"
+		],
+		"1.1.1" : [
+			"Yet again fixes"
+		],
+		"1.1.2" : [
+			"Removed unnecessary conflict"
+		],
+		"1.1.3" : [
+			"Czech translation by George King"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.0.0"
 	},
-	"conflicts" :
-	[
+	"conflicts" : [
 		"h3-themes.roe",
 		"h3-themes.ab",
 		"h3-themes.sod",

@@ -1,4 +1,4 @@
-{	
+{
 	"name" : "Main menu icons (german)",
 	"description" : "German translation of main menu icons.",
 	"version" : "1.1.0",
@@ -6,21 +6,22 @@
 	"contact" : "",
 	"modType" : "Translation",
 	"language" : "german",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.6.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ],
-		"1.1.0" : [ "HD icons" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		],
+		"1.1.0" : [
+			"HD icons"
+		]
 	},
-	"depends" :
-	[
+	"depends" : [
 		"h3-themes._support.originalbuttons"
 	],
 	"german" : {
 		"name" : "Hauptmenü-Icons (deutsch)",
-		"description" : "Deutsche Übersetzung der Hauptmenü-Icons."	
+		"description" : "Deutsche Übersetzung der Hauptmenü-Icons."
 	}
 }

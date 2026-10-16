@@ -5,16 +5,15 @@
 	"author" : "Dall-E 3, Andruids, avatar",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "Interface",
-	"changelog" :
-	{
-		"1.0" : ["Initial release"]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.0.0"
 	},
-	"conflicts" :
-	[
+	"conflicts" : [
 		"h3-themes.roe",
 		"h3-themes.ab",
 		"h3-themes.sod",

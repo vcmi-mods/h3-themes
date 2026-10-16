@@ -1,4 +1,4 @@
-{	
+{
 	"name" : "Main menu icons (swedish)",
 	"description" : "Swedish translation of main menu icons.",
 	"version" : "1.1.0",
@@ -6,16 +6,15 @@
 	"contact" : "",
 	"modType" : "Translation",
 	"language" : "swedish",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.6.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
-	"depends" :
-	[
+	"depends" : [
 		"h3-themes._support.originalbuttons"
 	]
 }

@@ -6,5 +6,7 @@
 	"modType" : "Interface",
 	"contact" : "",
 	"keepDisabled" : true,
-	"softDepends" : ["polish-translation"]
+	"softDepends" : [
+		"polish-translation"
+	]
 }

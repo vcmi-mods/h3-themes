@@ -3,18 +3,16 @@
 	"description" : "Main menu theme created from all Heroes Chronicles all images were enhanced using AI tools",
 	"author" : "George King",
 	"version" : "1.0",
-	"modType" : "Interface",	
+	"modType" : "Interface",
 	"contact" : "",
 	"keepDisabled" : true,
 	"compatibility" : {
 		"min" : "1.6.4"
 	},
-	"depends" :
-	[
+	"depends" : [
 		"h3-themes._support.originalbuttons"
 	],
-	"conflicts" :
-	[
+	"conflicts" : [
 		"h3-themes.roe",
 		"h3-themes.ab",
 		"h3-themes.sod",

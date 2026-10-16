@@ -3,15 +3,13 @@
 	"description" : "Heroes 3 Theme: Restoration of Erathia",
 	"author" : "",
 	"version" : "1.0",
-	"modType" : "Interface",	
+	"modType" : "Interface",
 	"contact" : "",
 	"keepDisabled" : true,
-	"depends" :
-	[
+	"depends" : [
 		"h3-themes._support.originalbuttons"
 	],
-	"conflicts" :
-	[
+	"conflicts" : [
 		"h3-themes.ab",
 		"h3-themes.sod",
 		"h3-themes.complete",

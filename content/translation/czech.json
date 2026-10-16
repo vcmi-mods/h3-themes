@@ -1,0 +1,12 @@
+{
+	"mod.name": "Vzhledy hlavního menu",
+	"mod.description": "Main Menu themes from: RoE, AB, SoD, HotA, WoG, ToW",
+	"mod.vcmi-ai.name": "VCMI AI Theme",
+	"mod.vcmi-ai.description": "Načítací obrazovky vytvořené pomocí umělé inteligence (Dall-E 3), upravené Andruidem. Pro hlavní menu jsou v podmodifikacích dostupné také vyšší rozlišení.",
+	"mod.vcmi-ai.1024x768.name": "Rozlišení hlavního menu - 1024x768",
+	"mod.vcmi-ai.1024x768.description": "Dodatečné vyšší rozlišení.",
+	"mod.vcmi-ai.1920x1080.name": "Rozlišení hlavního menu - 1920x1080",
+	"mod.vcmi-ai.1920x1080.description": "Dodatečné vyšší rozlišení.",
+	"mod.vcmi-ai.1920x1200.name": "Rozlišení hlavního menu - 1920x1200",
+	"mod.vcmi-ai.1920x1200.description": "Dodatečné vyšší rozlišení."
+}

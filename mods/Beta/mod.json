@@ -3,11 +3,10 @@
 	"description" : "Heroes 3 Theme: Beta",
 	"author" : "",
 	"version" : "1.0",
-	"modType" : "Interface",	
+	"modType" : "Interface",
 	"contact" : "",
 	"keepDisabled" : true,
-	"conflicts" :
-	[
+	"conflicts" : [
 		"h3-themes._support.originalbuttons",
 		"h3-themes.roe",
 		"h3-themes.ab",
